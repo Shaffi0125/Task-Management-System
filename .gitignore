@@ -1,0 +1,20 @@
+# Maven
+target/
+
+# IDE Files
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# Database Config
+src/main/java/com/task/Task_management/config/DatabaseConfig.java
+
+# Compiled Files
+*.class
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
